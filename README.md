@@ -1,4 +1,5 @@
 Aplikasi Tri-Darma Perguruan Tinggi 2 
+
 Deskripsi: Aplikasi digunakan untuk melakukan pengolahan data penelitian dan pengabdian masyarakat (abdimas) suatu perguruan tinggi. Data yang diolah adalah data penelitian dan abdimas. Pengguna aplikasi ini adalah pegawai PPM (Penelitian dan Pengabdian Masyarakat) di perguruan tinggi. 
 Spesifikasi: 
 a. Pengguna bisa melakukan penambahan, pengubahan (edit), dan penghapusan data penelitian dan abdimas. 
